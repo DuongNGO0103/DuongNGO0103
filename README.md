@@ -1,4 +1,4 @@
-![C'est Duong NGO](https://github.com/DuongNGO0103/DuongNGO0103/blob/main/asset/images/Group%201.svg)
+![C'est Duong NGO](https://github.com/DuongNGO0103/DuongNGO0103/blob/main/asset/images/dng.svg)
 
 * 81 Passage des Alouettes, 59000, Lille 
 * (+33) 07 83 97 62 89 
